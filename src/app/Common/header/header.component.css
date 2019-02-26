@@ -9,3 +9,11 @@
     color: white !important;
     font-weight: bold;
 }
+.top-nav-collapse {
+    padding: 10px 0;
+}
+.navbar {
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+}
