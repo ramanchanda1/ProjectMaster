@@ -1,0 +1,11 @@
+.bg-navbar {
+    background-color: black !important;
+    font-family: "Nunito Sans",sans-serif;
+}
+.bg-navbar-logo {
+   color: white !important
+}
+.bg-navbar-menu-text {
+    color: white !important;
+    font-weight: bold;
+}
